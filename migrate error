@@ -1,0 +1,8 @@
+
+Problem:
+
+    could not find driver (SQL: select * from information_schema.tables where table_schema = invoices and table_name = migrations and table_type = 'BASE TABLE')
+
+Solution:
+
+       => sudo apt-get install php-mysql
