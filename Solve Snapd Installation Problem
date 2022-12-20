@@ -1,0 +1,5 @@
+1) Go To The /etc/apt/preferences.d/nosnap.pref
+2) Comment All Lines on it by (#)
+Finally Install 
+
+    sudo apt install snapd
